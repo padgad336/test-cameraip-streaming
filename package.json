@@ -1,0 +1,13 @@
+{
+  "name": "test-camera-stream",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "padgad",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.2.7",
+    "node-rtsp-ffmpeg": "^1.0.7",
+    "node-rtsp-stream": "^0.0.9"
+  }
+}
